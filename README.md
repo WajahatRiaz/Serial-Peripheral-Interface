@@ -9,7 +9,7 @@ SPI (pronounced “S-P-I”) is a simple synchronous serial protocol that is eas
 (SCK), serial data out (SDO), and serial data in (SDI). SPI connects a controller device to a peripheral device, as shown below:
 
 <p align="center">
-  <img width="1000" height="400" src="https://user-images.githubusercontent.com/61377755/163710225-fc190afe-36a1-43aa-8ac1-652bb2cfdbb3.png">
+  <img width="300" height="200" src="https://user-images.githubusercontent.com/61377755/163710225-fc190afe-36a1-43aa-8ac1-652bb2cfdbb3.png">
 </p>
 
 
